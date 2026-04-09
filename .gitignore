@@ -1,0 +1,59 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Asset meta data should be tracked
+# Do NOT ignore .meta files globally
+
+# Addressables
+ServerData/
+
+# Visual Studio / JetBrains Rider
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity auto-generated files
+Assets/AssetStoreTools*
+
+# Crash reports
+sysinfo.txt
+
+# Builds and packages
+*.apk
+*.aab
+*.unitypackage
+
+# Input system generated C# (optional)
+# Uncomment if you generate and do not want to track
+# Assets/**/InputSystem_Actions.cs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# If you use Collaborate
+# Assets/Collab/
+
+# If you use plasticSCM lock files
+*.plastichistory
